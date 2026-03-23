@@ -1,6 +1,5 @@
-<img width="346" height="326" alt="image" src="https://github.com/user-attachments/assets/d2031f07-da81-4ca2-a0a4-7f563deab4c0" />第1步：
-打开小火箭 APP ，点击右上角 “➕” 添加订阅：
-
+第1步：
+打开小火箭 APP ，点击右上角 “➕” 添加订阅：<img width="346" height="326" alt="image" src="https://github.com/user-attachments/assets/d9dff390-7ebc-48df-89d5-79dd22888e71" />
 
 
 
