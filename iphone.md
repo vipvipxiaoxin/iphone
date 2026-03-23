@@ -21,6 +21,7 @@ https://spacex.airport-ls.top/api/v1/client/subscribe?token=63b04eb2e576bdf79cee
 返回主页面，点击设置按钮进入订阅设置：
 
 
+
 第4步：
 点击“订阅”，开启“打开时更新”和“自动后台更新”：
 
