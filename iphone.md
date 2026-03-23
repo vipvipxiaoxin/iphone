@@ -1,10 +1,15 @@
 第1步：
-打开小火箭 APP ，点击右上角 “➕” 添加订阅：<img width="346" height="326" alt="image" src="https://github.com/user-attachments/assets/d9dff390-7ebc-48df-89d5-79dd22888e71" />
-
+打开小火箭 APP ，点击右上角 “➕” 添加订阅：
+<img width="346" height="326" alt="image" src="https://github.com/user-attachments/assets/5e87346a-b4fe-4456-aa45-e52f732f0821" />
 
 
 第2步：
 点击“类型”把默认的"shadowsocks"改成“Subscribe”：
+<img width="354" height="258" alt="image" src="https://github.com/user-attachments/assets/c838ede9-f11f-4b2b-b305-bcb3e7560467" />
+
+
+
+
 
 这个是链接地址：
 https://spacex.airport-ls.top/api/v1/client/subscribe?token=63b04eb2e576bdf79cee4e64537fc8f4
